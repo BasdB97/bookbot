@@ -18,5 +18,12 @@
     "titleBar.inactiveBackground": "#5ea23a99",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#5ea23a"
+  "peacock.color": "#5ea23a",
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnSave": true
+  },
+  "python.analysis.typeCheckingMode": "basic"
+  
 }
